@@ -2,8 +2,6 @@
 
 A simple Python GUI application for saving timestamped notes to a text file.
 
-![Notes App Screenshot](screenshot.png) *(optional: add screenshot later)*
-
 ## Features
 - 🖊️ Simple text editor interface
 - ⏰ Automatic date/time stamps for each entry
